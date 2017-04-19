@@ -6,6 +6,9 @@ use GuzzleHttp\ClientInterface;
 
 /**
  * A client for connecting to and querying a SPARQL endpoint.
+
+
+//***************
  */
 
 class SparqlClient
